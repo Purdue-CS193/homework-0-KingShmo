@@ -6,7 +6,7 @@
 - A smaller class size
 - Very close from my dorm
 - I love how there are no exams and midterms in this class!
-- It will teach me about some important resource and skills to help build my career within Computer Science
+- It will teach me about some important resources and refine my skills to help build a strong career
 
 ### Welcome to GitHub Pages
 
