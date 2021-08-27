@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Anish Ketha's First CS193 Homework
+## Favorite things about CS193
+- Looks like a chill class
+- Taught by younger people
+- Funny people
+- A smaller class size
+- Very close from my dorm
+- I love how there are no exams and midterms in this class!
+- It will teach me about some important resource and skills to help build my career within Computer Science
+
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
