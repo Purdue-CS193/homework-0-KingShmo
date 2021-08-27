@@ -21,19 +21,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Anish Ketha's First CS193 Homework 
+# Header 1 (Use # for headers and include a space after)
 ## Header 2
 ### Header 3
 
-- Looks like a chill class
-- Taught by younger people
-- Funny people
-- A smaller class size
-- Very close from my dorm
-- I love how there are no exams and midterms in this class!
-- It will teach me about some important resource and skills to help build my career within Computer Science
+- Bulleted (Use - for bulleted lists and include a space after)
+- List 
 
-1. Numbered
+
+1. Numbered (Use number. for numbered lists and include a space after)
 2. List
 
 **Bold** and _Italic_ and `Code` text
