@@ -21,6 +21,7 @@ Syntax highlighted code block
 - A smaller class size
 - Very close from my dorm
 - I love how there are no exams and midterms in this class!
+- It will teach me about some important resource and skills to help build my career within Computer Science
 
 1. Numbered
 2. List
